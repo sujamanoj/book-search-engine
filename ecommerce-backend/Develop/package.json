@@ -1,0 +1,28 @@
+{
+  "name": "module-13-challenge-orm",
+  "version": "1.0.0",
+  "description": "Title E-Commerce Back End Description: To learn and test APIs",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sujamanoj/myecom-backend.git"
+  },
+  "keywords": [],
+  "author": "Suja",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.18.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.22.5"
+  }
+}
