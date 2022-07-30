@@ -62,7 +62,7 @@ This assignment includes:
 
 ## Deployed Application
 
-https://google-book-search-cailin.herokuapp.com/
+
 
 ## MIT License
 &copy;2021 Cailin Bell Wold
@@ -86,5 +86,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contact
-For inquiries, please contact [Cailin Bell Wold](https://github.com/CailinBellWold).
+For inquiries, please contact [Suja Raghuram Manoj]().
 
